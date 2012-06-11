@@ -10,6 +10,10 @@
     <% if author[:github] %>
     <li>Github: <a href='https://github.com/<%= author[:github] %>' target="_blank">https://github.com/<%= author[:github] %></a></li>
     <% end %>
+    <% if author[:website] %>
+    <li>Website: <a href='<%= author[:website] %>' target="_blank"><%= author[:website] %></a></li>
+    <% end %>
+  </ul>
   </ul>
   <% end %>
 </div>

@@ -145,12 +145,12 @@
   :authors:
   - :name: "Marco Ottolini"
     :bio: "<p>Imprenditore seriale e giornalista. Ha fondato Italia Online e Travel Online. E’ stato CEO di ZDNet e diretto PC Magazine. Ha molto imparato da insuccessi come Euposia e Small Formats</p>"
-    :twitter: 
+    :twitter:
     :github:
-  - :name: "TBA"
-    :bio: "<i>TBA</i>"
-    :twitter: 
-    :github:
+  - :name: Nicholas Wieland
+    :bio: "Nicholas Wieland (ngw) e' uno sviluppatore con il pallino per il design.<br/>Gli piacciono i lisp, il buon vino e le buone startup, possibilmente tutti insieme. <br/>Ho lavorato per Assembla e Hotchalk, poi e' stato CTO di Zooppa per qualche anno, e poi il CEO di un fallimento di nome StyleJam finche' non ha chiuso i battenti."
+    :twitter: ngw
+    :website: http://nofeed.org/
 - :id: 52
   :track_num: 0
   :lang: it
