@@ -2,6 +2,7 @@
 :tracks:
 - "Track #1 - Ruby Space"
 - "Track #2 - Ruby Mine"
+- "Keynote"
 :talks:
 - :id: 2
   :track_num: 1
@@ -163,3 +164,13 @@
     :bio: "Sergio è appassionato di informatica e sviluppo software da tempo immemorabile. Ha iniziato giocando e scrivendo i primi programmi in basic su un Commodore VIC 20, a colpi di PEEK e POKE ha scoperto il fascino del linguaggio macchina e dei microprocessori 6502 – Z80. Da lì in poi è stato un susseguirsi di computer (C64, Amiga 500, Apple II C, i primi IBM PC compatibili) e di linguaggi (Pascal, Fortran, C, C++ , Modula 2, Lisp) passando per i gloriosi PDP-11 del centro di calcolo universitario. Fedeli compagni di questo tragitto le prime BBS, riviste come MC Microcomputer, Doctor Dobb’s Journal, i “garagisti” californiani Steve Wozniak & Steve Jobs. Catturato negli anni 90 da mega progetti enterprise dell’industria del software ha vagato per anni alla ricerca della vecchia passione che stava scemando finché nel 2004 si è scontrato con XP, Kent Beck ed i metodi agili. Un amore a prima vista ? Forse … o forse tutto riacquistava senso e la passione poteva coniugarsi nuovamente col lavoro. Oggi si diletta fra progetti software, Scrum, XP, Lean Development e startup."
     :twitter: sergioberisso
     :github:
+- :id: 0
+  :track_num: 2
+  :lang: it
+  :title: "Miti e Leggende"
+  :abstract: "Il mondo dell'informatica e' da sempre dilaniato da guerre di religione, carestie e falsi profeti. Ruby e' stato vittima dei piu' feroci attacchi mai portati dalle forze del male. Se li e' forse meritati ? Dopo 7 anni di Ruby (e di ruby-it), provero' a sfatare alcuni dei miti e delle leggende che avvolgono una delle tecnologie piu' discusse degli ultimi tempi."
+  :from: "09:00"
+  :to: "09:40"
+  :authors:
+  - :name: Roberto De Ioris
+    :bio: "Lead-developer dei progetti uWSGI e koi-ha, fondatore di Unbit e 20tab, adora programmare in C, perl, python e ovviamente ruby. Di lavoro pero' gioca ai videogame."
