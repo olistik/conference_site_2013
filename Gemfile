@@ -2,7 +2,7 @@ source :gemcutter
 
 gem 'rack'
 gem 'rake'
-gem 'nanoc3'
+gem 'nanoc'
 gem 'builder'
 gem 'kramdown'
 
