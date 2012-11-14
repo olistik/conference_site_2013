@@ -3,7 +3,7 @@
 # General
 preprocess do
   copy_static # add assets to the output directory
-  generate_talks('content/talks.yaml') # generate the talks' page dynamically
+  # generate_talks('content/talks.yaml') # generate the talks' page dynamically
 end
 
 # The /talks/index.html must not be generated

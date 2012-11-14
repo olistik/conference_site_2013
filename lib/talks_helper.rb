@@ -1,3 +1,4 @@
+=begin
 require 'yaml'
 
 def generate_talks(yaml_file_path)
@@ -32,3 +33,4 @@ def track_num_to_name(data)
   end
   return data
 end
+=end
